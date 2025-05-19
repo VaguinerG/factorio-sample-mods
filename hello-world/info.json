@@ -5,5 +5,5 @@
   "author": "SeuNome",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
-  "description": "Exibe uma mensagem 'Hello world' ao iniciar novo jogo ou carregar um save."
+  "description": "Shows 'Hello world' on every game tick"
 }
