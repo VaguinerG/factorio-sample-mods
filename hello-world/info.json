@@ -2,7 +2,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "title": "Hello World Mod",
-  "author": "SeuNome",
+  "author": "Vaguiner",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
   "description": "Shows 'Hello world' on every game tick"
